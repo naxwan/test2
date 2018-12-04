@@ -3,3 +3,6 @@ test test
 try committing to staging
 
 try git pull 
+
+this will be committed to new-branch-name, let's see if it can be seen in master branch
+
