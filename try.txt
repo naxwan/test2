@@ -2,3 +2,4 @@ test test
 
 try committing to staging
 
+try git pull 
